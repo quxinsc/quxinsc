@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to there 😄
 | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=quxinsc&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&custom_title=TinyStar's-GitHub-Stats"/></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quxinsc&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
