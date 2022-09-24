@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quxinsc&show_icons=true&theme=buefy&hide_border=false&custom_title=TinyStar's-GitHub-Stats)
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=quxinsc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&custom_title=TinyStar's-GitHub-Stats"/></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quxinsc&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=quxinsc&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&custom_title=TinyStar's-GitHub-Stats"/></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quxinsc&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 Here are some ideas to get you started:
