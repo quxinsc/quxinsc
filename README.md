@@ -3,7 +3,7 @@
 | ------------- | ------------- |
 - 🔭 I’m currently working on How to Make Studying Fun
 - 🌱 I’m currently learning STM32/LINUX/C++
-- 🤔 I’m looking for help with YOU
+- 🤔 I’m looking for help with studing
 - 💬 Ask me about Any Questions
 - 📫 How to reach me: Email:quxinsc@qq.com
 -->
